@@ -25,7 +25,9 @@
   version: v1.0.0
 - src: marvel-nccr.lammps
   version: v1.0.0
+- src: uchida.miniconda
+  version: master
 - src: marvel-nccr.dl_poly
   version: master
-- src: uchida.miniconda
+- src: marvel-nccr.vmd
   version: master
